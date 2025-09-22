@@ -30,7 +30,7 @@ A powerful tool for creating interactive dashboards and visual reports for bette
 
 
 # Calculated Table:
-## Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
+###  Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
 <img width="683" height="530" alt="image" src="https://github.com/user-attachments/assets/c83275ca-b350-4520-826e-e63d8b1fa16d" />
 
 ## Example of calculated table DAX query for certain aggregation 
