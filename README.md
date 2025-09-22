@@ -26,7 +26,8 @@ Applied to build predictive models and uncover hidden patterns in data.
 A powerful tool for creating interactive dashboards and visual reports for better decision-making regarding the Taxi trip data .
 
 # Datawarehouse Schema 
-<img width="863" height="646" alt="image" src="https://github.com/user-attachments/assets/e98967c5-2bf6-4f5e-8d9c-9100f94d5b4b" />
+<img width="837" height="683" alt="image" src="https://github.com/user-attachments/assets/45e6dad6-defe-46de-b28b-9b91626c24d4" />
+
 
 # Calculated Table:
 ## Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
