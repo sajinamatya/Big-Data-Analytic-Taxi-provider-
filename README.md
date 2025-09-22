@@ -33,3 +33,6 @@ A powerful tool for creating interactive dashboards and visual reports for bette
 ## Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
 <img width="683" height="530" alt="image" src="https://github.com/user-attachments/assets/c83275ca-b350-4520-826e-e63d8b1fa16d" />
 
+## Example of calculated table DAX query for certain aggregation 
+<img width="1001" height="452" alt="image" src="https://github.com/user-attachments/assets/29dbffff-3481-49a3-976a-172ee99d9551" />
+
