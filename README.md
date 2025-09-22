@@ -28,6 +28,7 @@ A powerful tool for creating interactive dashboards and visual reports for bette
 # Datawarehouse Schema 
 <img width="863" height="646" alt="image" src="https://github.com/user-attachments/assets/e98967c5-2bf6-4f5e-8d9c-9100f94d5b4b" />
 
-# Calculated Table: Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
+# Calculated Table:
+## Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
 <img width="683" height="530" alt="image" src="https://github.com/user-attachments/assets/c83275ca-b350-4520-826e-e63d8b1fa16d" />
 
