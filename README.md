@@ -12,8 +12,22 @@ Taxi services produce massive amounts of data every day, such as geospatial loca
 
 # Tools and Technology
 ### Microsoft SQL Server Management Studio (SSMS)
+An integrated environment for managing SQL Server databases, writing queries, and administering data.
 ### Microsoft SQL Server Integration Services (SSIS) for data integration
+A platform for data integration and ETL (Extract, Transform, Load) operations.
+Provides advanced data analysis, OLAP, and business intelligence solutions using DAX query, cube operation .
 ### SQL Server Analysis Services (SSAS) for data analysis
+Provides advanced data analysis, OLAP, and business intelligence solutions using DAX query, cube operation .
 ### PySpark- Distributed data storage and processing technologies
+A distributed data processing framework used for handling large-scale datasets efficiently.
 ### Machine learning algorithms
+Applied to build predictive models and uncover hidden patterns in data.
 ### Power BI for data visualization
+A powerful tool for creating interactive dashboards and visual reports for better decision-making regarding the Taxi trip data .
+
+# Datawarehouse Schema 
+<img width="863" height="646" alt="image" src="https://github.com/user-attachments/assets/e98967c5-2bf6-4f5e-8d9c-9100f94d5b4b" />
+
+# Calculated Table: Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
+<img width="683" height="530" alt="image" src="https://github.com/user-attachments/assets/c83275ca-b350-4520-826e-e63d8b1fa16d" />
+
