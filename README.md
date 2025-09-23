@@ -25,6 +25,52 @@ Applied to build predictive models and uncover hidden patterns in data.
 ### Power BI for data visualization
 A powerful tool for creating interactive dashboards and visual reports for better decision-making regarding the Taxi trip data .
 
+# Business use case 
+A transportation company named TaxiProvider runs a digital platform enabling riders to schedule taxi services for their travel needs. The organization spans multiple urban areas and works with freelance taxi operators to handle ride bookings. Looking to scale their business operations, the company plans to analyze their collected data for actionable insights. This requires building a comprehensive data warehouse solution to support decision-making across their finance, operations, and marketing teams.
+Finance Department
+
+### Payment department :
+o What are the most commonly selected payment options by customers?
+o Is there a progressive shift toward electronic payments over time?
+Revenue Performance:
+o Which taxi operators contribute the most to overall earnings?
+o How do profit margins differ among various service partners?
+Tip Analysis:
+o What are the typical gratuity amounts passengers provide monthly or quarterly?
+o Do tip amounts correlate with particular operators or ride categories?
+Financial Monitoring:
+o What are the aggregate earnings for monthly and quarterly periods?
+o How do income patterns correspond with seasonal variations?
+
+### Marketing Department
+
+Geographic Market Analysis:
+o Which metropolitan area experiences the greatest booking volume?
+o How does customer demand shift across various cities temporally?
+Destination Trends:
+o What locations attract the most passengers seasonally or quarterly?
+o Are there developing destination preferences that could guide advertising strategies?
+Travel Pattern Analysis:
+o What are the most frequently traveled route combinations?
+o How might these movement patterns shape specialized promotional campaigns, including holiday or weekend deals?
+
+### Operations Department
+
+High-Demand Periods:
+o What time intervals show maximum taxi requests?
+o Are there particular days or timeframes with significant demand spikes?
+Performance Metrics:
+o Track distance traveled and duration patterns to evaluate fuel usage trends.
+Service Preferences:
+o Which ride categories do customers favor most?
+o How do service preferences differ by geographic area?
+Seasonal Booking Patterns:
+o Which months show peak reservation activity?
+o How do environmental and seasonal elements affect monthly booking volumes?
+Strategic Location Analysis:
+o What are the most active pickup and destination points?
+o How can this data support optimal taxi deployment or promotional planning?
+
 # Datawarehouse Schema 
 <img width="837" height="683" alt="image" src="https://github.com/user-attachments/assets/45e6dad6-defe-46de-b28b-9b91626c24d4" />
 
