@@ -30,46 +30,47 @@ A transportation company named TaxiProvider runs a digital platform enabling rid
 Finance Department
 
 ### Payment department :
-o What are the most commonly selected payment options by customers?
-o Is there a progressive shift toward electronic payments over time?
+#### 
+#### o What are the most commonly selected payment options by customers?
+#### o Is there a progressive shift toward electronic payments over time?
 Revenue Performance:
-o Which taxi operators contribute the most to overall earnings?
-o How do profit margins differ among various service partners?
-Tip Analysis:
-o What are the typical gratuity amounts passengers provide monthly or quarterly?
-o Do tip amounts correlate with particular operators or ride categories?
-Financial Monitoring:
-o What are the aggregate earnings for monthly and quarterly periods?
-o How do income patterns correspond with seasonal variations?
+#### o Which taxi operators contribute the most to overall earnings?
+#### o How do profit margins differ among various service partners?
+#### Tip Analysis:
+#### o What are the typical gratuity amounts passengers provide monthly or quarterly?
+#### o Do tip amounts correlate with particular operators or ride categories?
+#### Financial Monitoring:
+#### o What are the aggregate earnings for monthly and quarterly periods?
+#### o How do income patterns correspond with seasonal variations?
 
 ### Marketing Department
 
 Geographic Market Analysis:
-o Which metropolitan area experiences the greatest booking volume?
-o How does customer demand shift across various cities temporally?
-Destination Trends:
-o What locations attract the most passengers seasonally or quarterly?
-o Are there developing destination preferences that could guide advertising strategies?
-Travel Pattern Analysis:
-o What are the most frequently traveled route combinations?
-o How might these movement patterns shape specialized promotional campaigns, including holiday or weekend deals?
+#### o Which metropolitan area experiences the greatest booking volume?
+#### o How does customer demand shift across various cities temporally?
+#### Destination Trends:
+#### o What locations attract the most passengers seasonally or quarterly?
+#### o Are there developing destination preferences that could guide advertising strategies?
+#### Travel Pattern Analysis:
+#### o What are the most frequently traveled route combinations?
+#### o How might these movement patterns shape specialized promotional campaigns, including holiday or weekend deals?
 
 ### Operations Department
 
-High-Demand Periods:
-o What time intervals show maximum taxi requests?
-o Are there particular days or timeframes with significant demand spikes?
-Performance Metrics:
-o Track distance traveled and duration patterns to evaluate fuel usage trends.
-Service Preferences:
-o Which ride categories do customers favor most?
-o How do service preferences differ by geographic area?
-Seasonal Booking Patterns:
-o Which months show peak reservation activity?
-o How do environmental and seasonal elements affect monthly booking volumes?
+####High-Demand Periods:
+#### o What time intervals show maximum taxi requests?
+#### o Are there particular days or timeframes with significant demand spikes?
+####Performance Metrics:
+#### o Track distance traveled and duration patterns to evaluate fuel usage trends.
+####Service Preferences:
+#### o Which ride categories do customers favor most?
+#### o How do service preferences differ by geographic area?
+#### Seasonal Booking Patterns:
+#### o Which months show peak reservation activity?
+#### o How do environmental and seasonal elements affect monthly booking volumes?
 Strategic Location Analysis:
-o What are the most active pickup and destination points?
-o How can this data support optimal taxi deployment or promotional planning?
+#### o What are the most active pickup and destination points?
+#### o How can this data support optimal taxi deployment or promotional planning?
 
 # Datawarehouse Schema 
 <img width="837" height="683" alt="image" src="https://github.com/user-attachments/assets/45e6dad6-defe-46de-b28b-9b91626c24d4" />
