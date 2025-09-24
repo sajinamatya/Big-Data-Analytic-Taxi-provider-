@@ -72,6 +72,10 @@ Strategic Location Analysis:
 #### o What are the most active pickup and destination points?
 #### o How can this data support optimal taxi deployment or promotional planning?
 
+
+# Data Warehouse Architecture Diagram
+<img width="966" height="476" alt="image" src="https://github.com/user-attachments/assets/e0bceebf-7d9f-417d-8049-4e241dc3d62b" />
+
 # Datawarehouse Schema 
 <img width="837" height="683" alt="image" src="https://github.com/user-attachments/assets/45e6dad6-defe-46de-b28b-9b91626c24d4" />
 
