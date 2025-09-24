@@ -57,12 +57,12 @@ Geographic Market Analysis:
 
 ### Operations Department
 
-####High-Demand Periods:
+#### High-Demand Periods:
 #### o What time intervals show maximum taxi requests?
 #### o Are there particular days or timeframes with significant demand spikes?
-####Performance Metrics:
+#### Performance Metrics:
 #### o Track distance traveled and duration patterns to evaluate fuel usage trends.
-####Service Preferences:
+#### Service Preferences:
 #### o Which ride categories do customers favor most?
 #### o How do service preferences differ by geographic area?
 #### Seasonal Booking Patterns:
