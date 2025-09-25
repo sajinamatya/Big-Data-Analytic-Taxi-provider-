@@ -6,6 +6,11 @@ leverages ETL processes and data warehousing to manage and analyze large-scale t
 <img width="1122" height="626" alt="image" src="https://github.com/user-attachments/assets/1e2e993b-a067-4e67-ae64-14d0667b74ef" />
 <img width="1125" height="629" alt="image" src="https://github.com/user-attachments/assets/8c448312-a9f6-4a13-9296-aae1188085fe" />
 
+# Aims and Objective 
+#### - To develop a scalable data warehouse infrastructure that can effectively handle and organize large volumes of transportation data from multiple sources.
+#### - To implement comprehensive data processing workflows using big data technologies to clean, standardize, and prepare complex transportation datasets for analysis.
+#### - To apply sophisticated analytical techniques and predictive modeling to identify key patterns, trends, and insights within urban transportation systems.
+#### - To produce actionable business intelligence deliverables including reports and dashboards that support evidence-based decision-making for transportation planning and policy development.
 
 # Data Overview 
 Taxi services produce massive amounts of data every day, such as geospatial locations, fare information, payment methods, and more. Yet, in its raw form, this data holds limited value without proper storage, processing, and analysis. Our project addresses this by applying these techniques to the Taxi Trip Dataset—a real-world collection containing 2,548,358 records.
@@ -33,7 +38,7 @@ Finance Department
 
 #### - What are the most commonly selected payment options by customers?
 #### - Is there a progressive shift toward electronic payments over time?
-Revenue Performance:
+#### Revenue Performance:
 #### - Which taxi operators contribute the most to overall earnings?
 #### - How do profit margins differ among various service partners?
 #### Tip Analysis:
@@ -68,7 +73,7 @@ Revenue Performance:
 #### Seasonal Booking Patterns:
 #### - Which months show peak reservation activity?
 #### - How do environmental and seasonal elements affect monthly booking volumes?
-Strategic Location Analysis:
+### Strategic Location Analysis:
 #### - What are the most active pickup and destination points?
 #### - How can this data support optimal taxi deployment or promotional planning?
 
