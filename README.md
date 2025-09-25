@@ -30,47 +30,47 @@ A transportation company named TaxiProvider runs a digital platform enabling rid
 Finance Department
 
 ### Payment department :
-#### 
-#### o What are the most commonly selected payment options by customers?
-#### o Is there a progressive shift toward electronic payments over time?
+
+#### - What are the most commonly selected payment options by customers?
+#### - Is there a progressive shift toward electronic payments over time?
 Revenue Performance:
-#### o Which taxi operators contribute the most to overall earnings?
-#### o How do profit margins differ among various service partners?
+#### - Which taxi operators contribute the most to overall earnings?
+#### - How do profit margins differ among various service partners?
 #### Tip Analysis:
-#### o What are the typical gratuity amounts passengers provide monthly or quarterly?
-#### o Do tip amounts correlate with particular operators or ride categories?
+#### - What are the typical gratuity amounts passengers provide monthly or quarterly?
+#### - Do tip amounts correlate with particular operators or ride categories?
 #### Financial Monitoring:
-#### o What are the aggregate earnings for monthly and quarterly periods?
-#### o How do income patterns correspond with seasonal variations?
+#### - What are the aggregate earnings for monthly and quarterly periods?
+#### - How do income patterns correspond with seasonal variations?
 
 ### Marketing Department
 
-Geographic Market Analysis:
-#### o Which metropolitan area experiences the greatest booking volume?
-#### o How does customer demand shift across various cities temporally?
+#### Geographic Market Analysis:
+#### - Which metropolitan area experiences the greatest booking volume?
+#### - How does customer demand shift across various cities temporally?
 #### Destination Trends:
-#### o What locations attract the most passengers seasonally or quarterly?
-#### o Are there developing destination preferences that could guide advertising strategies?
+#### - What locations attract the most passengers seasonally or quarterly?
+#### - Are there developing destination preferences that could guide advertising strategies?
 #### Travel Pattern Analysis:
-#### o What are the most frequently traveled route combinations?
-#### o How might these movement patterns shape specialized promotional campaigns, including holiday or weekend deals?
+#### - What are the most frequently traveled route combinations?
+#### - How might these movement patterns shape specialized promotional campaigns, including holiday or weekend deals?
 
 ### Operations Department
 
 #### High-Demand Periods:
-#### o What time intervals show maximum taxi requests?
-#### o Are there particular days or timeframes with significant demand spikes?
+#### - What time intervals show maximum taxi requests?
+#### - Are there particular days or timeframes with significant demand spikes?
 #### Performance Metrics:
-#### o Track distance traveled and duration patterns to evaluate fuel usage trends.
+#### - Track distance traveled and duration patterns to evaluate fuel usage trends.
 #### Service Preferences:
-#### o Which ride categories do customers favor most?
-#### o How do service preferences differ by geographic area?
+#### - Which ride categories do customers favor most?
+#### - How do service preferences differ by geographic area?
 #### Seasonal Booking Patterns:
-#### o Which months show peak reservation activity?
-#### o How do environmental and seasonal elements affect monthly booking volumes?
+#### - Which months show peak reservation activity?
+#### - How do environmental and seasonal elements affect monthly booking volumes?
 Strategic Location Analysis:
-#### o What are the most active pickup and destination points?
-#### o How can this data support optimal taxi deployment or promotional planning?
+#### - What are the most active pickup and destination points?
+#### - How can this data support optimal taxi deployment or promotional planning?
 
 
 # Data Warehouse Architecture Diagram
@@ -85,6 +85,6 @@ Strategic Location Analysis:
 <img width="862" height="600" alt="image" src="https://github.com/user-attachments/assets/c5c1a793-c0b1-4d8c-ba5c-c1b724e1a598" />
 
 
-## Example of calculated table DAX query for certain aggregation 
+# Example of calculated table DAX query for certain aggregation 
 <img width="1001" height="452" alt="image" src="https://github.com/user-attachments/assets/29dbffff-3481-49a3-976a-172ee99d9551" />
 
