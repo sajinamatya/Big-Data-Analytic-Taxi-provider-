@@ -81,7 +81,8 @@ Strategic Location Analysis:
 
 # Star Schema Diagram 
 ### Fact and dimensional table
-<img width="588" height="704" alt="image" src="https://github.com/user-attachments/assets/f97badc1-95d8-4477-b2b3-901d84820a33" />
+<img width="1018" height="1030" alt="image" src="https://github.com/user-attachments/assets/3c2acd0f-7183-4ddc-b295-5cad7c77f437" />
+
 
 # Calculated Table:
 ###  Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
