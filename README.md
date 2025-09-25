@@ -82,7 +82,8 @@ Strategic Location Analysis:
 
 # Calculated Table:
 ###  Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
-<img width="683" height="530" alt="image" src="https://github.com/user-attachments/assets/c83275ca-b350-4520-826e-e63d8b1fa16d" />
+<img width="862" height="600" alt="image" src="https://github.com/user-attachments/assets/c5c1a793-c0b1-4d8c-ba5c-c1b724e1a598" />
+
 
 ## Example of calculated table DAX query for certain aggregation 
 <img width="1001" height="452" alt="image" src="https://github.com/user-attachments/assets/29dbffff-3481-49a3-976a-172ee99d9551" />
