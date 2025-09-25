@@ -76,9 +76,12 @@ Strategic Location Analysis:
 # Data Warehouse Architecture Diagram
 <img width="966" height="476" alt="image" src="https://github.com/user-attachments/assets/e0bceebf-7d9f-417d-8049-4e241dc3d62b" />
 
-# Datawarehouse Schema 
+# Datawarehouse Schema (SSAS) 
 <img width="837" height="683" alt="image" src="https://github.com/user-attachments/assets/45e6dad6-defe-46de-b28b-9b91626c24d4" />
 
+# Star Schema Diagram 
+### Fact and dimensional table
+<img width="588" height="704" alt="image" src="https://github.com/user-attachments/assets/f97badc1-95d8-4477-b2b3-901d84820a33" />
 
 # Calculated Table:
 ###  Used for extracting the required query by creating summaries, aggregations, or transformations using DAX.
