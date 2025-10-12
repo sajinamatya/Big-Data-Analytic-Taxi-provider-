@@ -101,9 +101,11 @@ Finance Department
  #### In this stage, we collect the necessary data from various sources - like databases, APIs, websites, and data repositories - in different formats such as CSV, JSON, or XML. Instead of loading this raw data directly into the data warehouse,   #### we first store it in a staging area. This temporary space allows us to clean, transform, and prepare the data before moving it to its final destination.
  <img width="221" height="385" alt="image" src="https://github.com/user-attachments/assets/5b2aef0a-5fd4-45e8-b3cc-4a08bbf35ef9" />
   ### We started with 12 CSV files containing taxi trip data - one for each month of 2024. We used SSIS (SQL Server Integration Services) to load all these files into our SQL Server database.
-  <img width="774" height="232" alt="image" src="https://github.com/user-attachments/assets/8d918cc0-01c2-4c9d-ae7f-836c25fa3764" />
-### We set up a Foreach Loop Container that goes through each CSV file automatically, processing them one at a time. We also created a 'FilePath' variable that keeps track of which file we're currently working on.
-
+  ##
+ <img width="774" height="232" alt="image" src="https://github.com/user-attachments/assets/8d918cc0-01c2-4c9d-ae7f-836c25fa3764" />
+  ##
+ ### We set up a Foreach Loop Container that goes through each CSV file automatically, processing them one at a time. We also created a 'FilePath' variable that keeps track of which file we're currently working on.
+ ##
 
 <img width="612" height="466" alt="image" src="https://github.com/user-attachments/assets/dc4f14ef-b631-4989-9695-7b1615ac0082" />
 
