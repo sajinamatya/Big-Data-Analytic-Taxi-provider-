@@ -110,4 +110,14 @@ Finance Department
 
 
 <img width="612" height="466" alt="image" src="https://github.com/user-attachments/assets/dc4f14ef-b631-4989-9695-7b1615ac0082" />
+#### Data flow pipeline 
+<img width="1037" height="521" alt="image" src="https://github.com/user-attachments/assets/034146d9-2905-437f-b3d9-a51a82598f5d" />
+
+## Logs 
+#### The Execute SQL Task was set up to record information about each file as it was processed. We connected it to the database using ADO.NET. In the Expression property, we selected SQLStatementSource and wrote an insert statement that saves the file path, number of rows, and processing date into a log table.
+<img width="573" height="421" alt="image" src="https://github.com/user-attachments/assets/f8c753e6-494c-4c39-ac60-e03bb9c3bb1d" />
+
+<img width="681" height="603" alt="image" src="https://github.com/user-attachments/assets/45979b92-6297-48cf-843a-6675d6165417" />
+
+
 
