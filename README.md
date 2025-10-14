@@ -98,7 +98,7 @@ Finance Department
 <img width="1001" height="452" alt="image" src="https://github.com/user-attachments/assets/29dbffff-3481-49a3-976a-172ee99d9551" />
 
 # Data extraction Stage 
- #### In this stage, we collect the necessary data from various sources - like databases, APIs, websites, and data repositories - in different formats such as CSV, JSON, or XML. Instead of loading this raw data directly into the data warehouse,   #### we first store it in a staging area. This temporary space allows us to clean, transform, and prepare the data before moving it to its final destination.
+ #### In this stage, we collect the necessary data from various sources - like databases, APIs, websites, and data repositories - in different formats such as CSV, JSON, or XML. Instead of loading this raw data directly into the data warehouse, we first store it in a staging area. This temporary space allows us to clean, transform, and prepare the data before moving it to its final destination.
  
  <img width="221" height="385" alt="image" src="https://github.com/user-attachments/assets/5b2aef0a-5fd4-45e8-b3cc-4a08bbf35ef9" />
  
