@@ -119,5 +119,10 @@ Finance Department
 
 <img width="681" height="603" alt="image" src="https://github.com/user-attachments/assets/45979b92-6297-48cf-843a-6675d6165417" />
 
+#### Log records are inserted into the FILELOG table with three key pieces of information: FilePath, RecordCount, and Dated. To verify that everything worked properly, we executed a SELECT * FROM FILELOG query in SSMS. The results showed all the records, confirming that the logging process successfully captured data for each of the 12 CSV files processed in the for loop.
+
+<img width="867" height="488" alt="image" src="https://github.com/user-attachments/assets/968787dd-ab7d-4c40-8ef7-4d8382ecf79e" />
+
+
 
 
