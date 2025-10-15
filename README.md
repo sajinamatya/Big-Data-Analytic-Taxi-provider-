@@ -133,8 +133,14 @@ Finance Department
 
 
 
+
+
 <img width="867" height="488" alt="image" src="https://github.com/user-attachments/assets/968787dd-ab7d-4c40-8ef7-4d8382ecf79e" />
 
 
 
+
+
+### Overall datapipeline of SSIS 
+<img width="887" height="353" alt="image" src="https://github.com/user-attachments/assets/529797bf-a074-495b-847a-384ea6036cf9" />
 
