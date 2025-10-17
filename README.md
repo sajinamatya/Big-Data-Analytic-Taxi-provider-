@@ -6,62 +6,62 @@ leverages ETL processes and data warehousing to manage and analyze large-scale t
 <img width="1122" height="626" alt="image" src="https://github.com/user-attachments/assets/1e2e993b-a067-4e67-ae64-14d0667b74ef" />
 <img width="1125" height="629" alt="image" src="https://github.com/user-attachments/assets/8c448312-a9f6-4a13-9296-aae1188085fe" />
 
-# Dashboard Metrics and Visual Elements
-## Main Performance Numbers
+## Dashboard Metrics and Visual Elements
+### Main Performance Numbers
 
-### Total Revenue: $40.34 million
-### Trip Cancellations: 2.68%
-### Typical Tip Amount: $1.84
-### Standard Trip Cost: $15.86
+#### Total Revenue: $40.34 million
+#### Trip Cancellations: 2.68%
+#### Typical Tip Amount: $1.84
+#### Standard Trip Cost: $15.86
 
-## Visual Data Representations
+### Visual Data Representations
 
-### Monthly Revenue Pattern (Line Graph): Tracks how income changes throughout 2024
-### Payment Method Breakdown (Donut Graph): Shows how customers prefer to pay (options 1 through 5)
-### Revenue by Payment Option (Bar Graph): Compares which payment methods bring in the most money
-### Airport Trip Volume (Line Graph): Monitors airport ride frequency month by month
-### Time-Based Surcharge Averages (Donut Graph): Breaks down extra charges by time slots (Night, Early Morning, Evening, Afternoon, Morning)
+#### Monthly Revenue Pattern (Line Graph): Tracks how income changes throughout 2024
+#### Payment Method Breakdown (Donut Graph): Shows how customers prefer to pay (options 1 through 5)
+#### Revenue by Payment Option (Bar Graph): Compares which payment methods bring in the most money
+#### Airport Trip Volume (Line Graph): Monitors airport ride frequency month by month
+#### Time-Based Surcharge Averages (Donut Graph): Breaks down extra charges by time slots (Night, Early Morning, Evening, Afternoon, Morning)
 
-## What the Data Tells Us
-## Looking at the dashboard reveals some interesting patterns:
+### What the Data Tells Us
+### Looking at the dashboard reveals some interesting patterns:
 
-### Seasonal Revenue Patterns: Business really picks up in April and October, likely because people travel more during summer vacation and fall holidays. Things slow down noticeably from December through February, which deserves some strategic focus.
-### How Customers Pay: Card payments (Type 1) clearly win customer favor, accounting for 1.1 million transactions and $10 million in revenue. Together, payment types 1 and 2 make up roughly 90% of all payment activity, while other options see much less use.
-### Airport Rides Matter: Airport trips track closely with overall revenue patterns, peaking during the same busy months—April and October. This suggests airport transportation plays a major role in driving company income.
-### Smooth Operations: With only 2.68% of rides being cancelled, the service runs reliably and efficiently.
-### Customer Tipping Habits: The $1.84 average tip gives us a window into customer satisfaction levels.
+#### Seasonal Revenue Patterns: Business really picks up in April and October, likely because people travel more during summer vacation and fall holidays. Things slow down noticeably from December through February, which deserves some strategic focus.
+#### How Customers Pay: Card payments (Type 1) clearly win customer favor, accounting for 1.1 million transactions and $10 million in revenue. Together, payment types 1 and 2 make up roughly 90% of all payment activity, while other options see much less use.
+#### Airport Rides Matter: Airport trips track closely with overall revenue patterns, peaking during the same busy months—April and October. This suggests airport transportation plays a major role in driving company income.
+#### Smooth Operations: With only 2.68% of rides being cancelled, the service runs reliably and efficiently.
+#### Customer Tipping Habits: The $1.84 average tip gives us a window into customer satisfaction levels.
 
-## Practical Strategies and Reward Programs
+### Practical Strategies and Reward Programs
 
-## Smart Seasonal Marketing
+### Smart Seasonal Marketing
 
-### Launch targeted promotions during slower months (December-February, June-July)
-### Design special deals to boost ridership when demand naturally dips
-
-
-## Payment Method Rewards
-
-### Give extra loyalty points for preferred payment options
-### Offer ride credits or cashback to encourage payment methods with lower processing costs
+#### Launch targeted promotions during slower months (December-February, June-July)
+#### Design special deals to boost ridership when demand naturally dips
 
 
-## Driver Shift Incentives
+### Payment Method Rewards
 
-### Provide 15% pay boosts for drivers covering Night and Morning hours (when surcharges hit 25.4% and 25.1%)
-### Guarantees driver availability when customers need rides most
-
-
-## Airport Service Improvements
-
-### Create monthly subscription passes for regular airport travelers during busy seasons (July and November)
-### Design premium airport packages with added perks during high-demand periods
-### Builds steady income while keeping customers coming back
+#### Give extra loyalty points for preferred payment options
+#### Offer ride credits or cashback to encourage payment methods with lower processing costs
 
 
-## Reliability Rewards for Drivers
+### Driver Shift Incentives
 
-### Give monthly bonuses to drivers who keep cancellations under 2%
-### Strengthens service quality and protects revenue
+#### Provide 15% pay boosts for drivers covering Night and Morning hours (when surcharges hit 25.4% and 25.1%)
+#### Guarantees driver availability when customers need rides most
+
+
+### Airport Service Improvements
+
+#### Create monthly subscription passes for regular airport travelers during busy seasons (July and November)
+#### Design premium airport packages with added perks during high-demand periods
+#### Builds steady income while keeping customers coming back
+
+
+### Reliability Rewards for Drivers
+
+#### Give monthly bonuses to drivers who keep cancellations under 2%
+#### Strengthens service quality and protects revenue
 
 # Aims and Objective 
 #### - To develop a scalable data warehouse infrastructure that can effectively handle and organize large volumes of transportation data from multiple sources.
